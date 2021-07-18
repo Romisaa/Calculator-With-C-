@@ -1,0 +1,16 @@
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.exe
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.deps.json
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.runtimeconfig.json
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.runtimeconfig.dev.json
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.dll
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\bin\Debug\net5.0\ref\MyCalculatorConsoleApp.dll
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\bin\Debug\net5.0\MyCalculatorConsoleApp.pdb
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.csproj.AssemblyReference.cache
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.AssemblyInfoInputs.cache
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.AssemblyInfo.cs
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.csproj.CoreCompileInputs.cache
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.dll
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\ref\MyCalculatorConsoleApp.dll
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.pdb
+R:\Romisaa\C#\Calculator\MyCalculatorConsoleApp\obj\Debug\net5.0\MyCalculatorConsoleApp.genruntimeconfig.cache
