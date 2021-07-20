@@ -20,30 +20,30 @@ namespace MyCalculatorConsoleApp
             if (Operators == "+")
             {
                 Answer = addNumbers();
-                History.Add($"{FirstNum} + {SecondNum} = {Answer}");
+                History.Add($"{FirstNum} {Operators} {SecondNum} = {Answer}");
             }
             else if (Operators == "-")
             {
                 Answer = subtractNumbers();
-                History.Add($"{FirstNum} + {SecondNum} = {Answer}");
+                History.Add($"{FirstNum} {Operators} {SecondNum} = {Answer}");
 
             }
             else if (Operators == "*")
             {
                 Answer = multiNumbers();
-                History.Add($"{FirstNum} + {SecondNum} = {Answer}");
+                History.Add($"{FirstNum} {Operators} {SecondNum} = {Answer}");
 
             }
             else if (Operators == "/")
             {
                     Answer = divideNumbers();
-                    History.Add($"{FirstNum} + {SecondNum} = {Answer}");
+                    History.Add($"{FirstNum} {Operators} {SecondNum} = {Answer}");
                 
             }
             else if (Operators == "^")
             {
                 Answer = squareNumbers();
-                History.Add($"{FirstNum} + {SecondNum} = {Answer}");
+                History.Add($"{FirstNum} {Operators} {SecondNum} = {Answer}");
 
             }
             return Answer;
